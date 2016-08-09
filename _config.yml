@@ -10,7 +10,7 @@ title: CCARVALHO
 email: claudiacvlho@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Cláudia Carvalho: Front-End Developer and UX/UI Designer.
-baseurl: "/ccarvalho/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stklauz.github.io/ccarvalho/" # the base hostname & protocol for your site
 github_username:  stklauz
 
