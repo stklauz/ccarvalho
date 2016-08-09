@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CCARVALHO</title>
+    <description>Cláudia Carvalho: Front-End Developer and UX/UI Designer.
+</description>
+    <link>http://ccarvalho.cc/</link>
+    <atom:link href="http://ccarvalho.cc/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Aug 2016 22:58:34 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2016 22:58:34 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>PROJECT 3</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a posuere nisi. Praesent consectetur, felis ac vestibulum dapibus, mauris tellus ultrices tortor, interdum elementum lacus libero nec mauris. Vivamus at massa a est efficitur cursus eget at libero. Proin ultrices, ligula at efficitur condimentum, ligula mauris sagittis mi.&lt;/p&gt;
+
+&lt;p&gt;Donec sem lectus, commodo a varius vitae, sodales sit amet metus. Donec volutpat laoreet turpis, sed vulputate arcu. Fusce ornare erat sapien, non gravida leo varius vitae. Sed a feugiat sem, id malesuada est. Suspendisse sodales, arcu non vestibulum gravida, massa orci auctor nunc, nec tempor ante massa a lectus. Donec nec odio vel neque dapibus consectetur. In id risus elit.&lt;/p&gt;
+
+&lt;p&gt;Morbi nec augue lectus. Aliquam erat volutpat. Ut euismod metus ut lectus euismod sagittis. Morbi odio tellus, aliquet egestas volutpat pellentesque, fermentum nec augue. Cras auctor in massa quis scelerisque. Vivamus vel eleifend mauris, eu iaculis quam. Aenean a auctor lacus, sit amet ornare orci. Maecenas id quam convallis, pulvinar metus id, sagittis urna. Sed at blandit eros, a rutrum quam. Nullam.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jun 2016 12:10:05 +0100</pubDate>
+        <link>http://ccarvalho.cc/2016/06/16/project1.html</link>
+        <guid isPermaLink="true">http://ccarvalho.cc/2016/06/16/project1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>PROJECT 2</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a posuere nisi. Praesent consectetur, felis ac vestibulum dapibus, mauris tellus ultrices tortor, interdum elementum lacus libero nec mauris. Vivamus at massa a est efficitur cursus eget at libero. Proin ultrices, ligula at efficitur condimentum, ligula mauris sagittis mi, aliquet euismod diam eros sed ante. Nulla eu volutpat nulla.&lt;/p&gt;
+
+&lt;p&gt;Donec sem lectus, commodo a varius vitae, sodales sit amet metus. Donec volutpat laoreet turpis, sed vulputate arcu. Fusce ornare erat sapien, non gravida leo varius vitae. Sed a feugiat sem, id malesuada est. Suspendisse sodales, arcu non vestibulum gravida, massa orci auctor nunc, nec tempor ante massa a lectus. Donec nec odio vel neque dapibus consectetur. In id risus elit.&lt;/p&gt;
+
+&lt;p&gt;Morbi nec augue lectus. Aliquam erat volutpat. Ut euismod metus ut lectus euismod sagittis. Morbi odio tellus, aliquet egestas volutpat pellentesque, fermentum nec augue. Cras auctor in massa quis scelerisque. Vivamus vel eleifend mauris, eu iaculis quam. Aenean a auctor lacus, sit amet ornare orci. Maecenas id quam convallis, pulvinar metus id, sagittis urna. Sed at blandit eros, a rutrum quam. Nullam.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jun 2016 12:10:05 +0100</pubDate>
+        <link>http://ccarvalho.cc/2016/06/16/projecto1.html</link>
+        <guid isPermaLink="true">http://ccarvalho.cc/2016/06/16/projecto1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>PROJECT 1</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a posuere nisi. Praesent consectetur, felis ac vestibulum dapibus, mauris tellus ultrices tortor, interdum elementum lacus libero nec mauris. Vivamus at massa a est efficitur cursus eget at libero. Proin ultrices, ligula at efficitur condimentum, ligula mauris sagittis mi, aliquet euismod diam eros sed ante.&lt;/p&gt;
+
+&lt;p&gt;Donec sem lectus, commodo a varius vitae, sodales sit amet metus. Donec volutpat laoreet turpis, sed vulputate arcu. Fusce ornare erat sapien, non gravida leo varius vitae. Sed a feugiat sem, id malesuada est. Suspendisse sodales, arcu non vestibulum gravida, massa orci auctor nunc, nec tempor ante massa a lectus. Donec nec odio vel neque dapibus consectetur. In id risus elit.&lt;/p&gt;
+
+&lt;p&gt;Morbi nec augue lectus. Aliquam erat volutpat. Ut euismod metus ut lectus euismod sagittis. Morbi odio tellus, aliquet egestas volutpat pellentesque, fermentum nec augue. Cras auctor in massa quis scelerisque. Vivamus vel eleifend mauris, eu iaculis quam. Aenean a auctor lacus, sit amet ornare orci. Maecenas id quam convallis, pulvinar metus id, sagittis urna. Sed at blandit eros, a rutrum quam. Nullam.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jun 2016 12:10:05 +0100</pubDate>
+        <link>http://ccarvalho.cc/2016/06/16/projecto1.html</link>
+        <guid isPermaLink="true">http://ccarvalho.cc/2016/06/16/projecto1.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
